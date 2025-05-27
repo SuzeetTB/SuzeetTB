@@ -83,9 +83,9 @@
 </br>
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuzeetTB&show_icons=true&locale=en" alt="SuzeetTB" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuzeetTB & show_icons=true&locale=en" alt="SuzeetTB" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuzeetTB&" alt="SuzeetTB" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuzeetTB" alt="SuzeetTB" /></p>
 <!-- </br> -->
 
 <!--<h3 align="left">▶ Support:</h3>
